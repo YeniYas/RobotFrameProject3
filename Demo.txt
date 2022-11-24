@@ -1,1 +1,12 @@
+Alfresco es un sistema de administración de contenidos de código fuente libre, desarrollado en Java, basado en estándares abiertos y de escala empresarial para sistemas operativos tipo Windows, Unix Solaris y algunas versiones de Linux.
 
+Se distribuye en tres variantes diferentes:3​
+
+Alfresco Community Edition: Es software libre, con licencia LGPL de código abierto y estándares abiertos.
+Alfresco Enterprise Edition: Se distribuye bajo licencia de código abierto y estándares abiertos, con la 
+posibilidad de soporte comercial y propietario a escala empresarial.
+Alfresco Cloud Edition (Alfresco in the cloud) que es la versión SaaS o Software como Servicio de Alfresco.
+Está diseñado para usuarios que requieren un alto grado de modularidad y rendimiento escalable. Alfresco
+ incluye un repositorio de contenidos, un framework de portal web para administrar y usar contenido estándar en 
+ portales, una interfaz CIFS (el antiguo SMB) que provee compatibilidad de sistemas de archivos en Windows y sistemas operativos tipo Unix, un sistema de administración de contenido web, capacidad de virtualizar aplicaciones web y sitios estáticos vía Apache Tomcat, 
+búsquedas vía el motor Apache Solr-Lucene y flujo de trabajo en jBPM.
